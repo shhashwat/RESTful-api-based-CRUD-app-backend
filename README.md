@@ -4,6 +4,6 @@
 <br/>
 
 <div>
-   <img src="https://media1.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.webp?cid=790b7611dupasbacbtcigxc3b8ktypq0pqbx73thkmvi0uv4&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Alt Text" style="width:200px; height:200px; border:1px solid black; overflow:hidden;">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEwZjF2b2pocWx2cmdxcWtmdzlkM24ydm9xdDR3bXd5empiMjVkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Alt Text" style="width:200px; height:200px; border:1px solid black; overflow:hidden;">
 </div>
 <br/>
